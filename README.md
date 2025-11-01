@@ -40,3 +40,6 @@ Foi criada uma tarefa com os seguintes dados:
   "dataEntrega": "2025-12-12",
   "responsavel": "Charles RU-38884700"
 }
+## Prints dos testes
+
+Os testes foram feitos no Postman e no terminal. Os prints estão disponíveis na aba de arquivos do repositório.
